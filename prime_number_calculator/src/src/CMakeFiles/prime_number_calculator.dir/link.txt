@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/prime_number_calculator.dir/prime_number_calculator.cpp.o  -o prime_number_calculator -rdynamic 

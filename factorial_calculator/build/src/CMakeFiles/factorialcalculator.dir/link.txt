@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/factorialcalculator.dir/factorial_calculator.cpp.o  -o factorialcalculator -rdynamic 
