@@ -3,7 +3,8 @@
 int main()
 {
     long long userInput;
-
+    
+    std::cout << "Please Enter a Number" << std::endl;
     std::cin >> userInput;
 
     long long value = userInput;
@@ -36,6 +37,3 @@ int main()
 
 return 0;
 }
-    
-        
-        
